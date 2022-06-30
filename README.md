@@ -1,7 +1,1 @@
-# Project <insert name>
-
-## Dataset structure
-
-- All inputs (i.e. building blocks from other sources) are located in
-  `inputs/`.
-- All custom code is located in `code/`.
+.git/annex/objects/m7/PQ/MD5E-s1153--28a806aaaff49c0fa7b9e998326c1d43.md/MD5E-s1153--28a806aaaff49c0fa7b9e998326c1d43.md
