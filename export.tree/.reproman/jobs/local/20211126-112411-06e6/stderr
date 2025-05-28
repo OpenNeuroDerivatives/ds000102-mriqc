@@ -1,0 +1,16 @@
+Warning: Permanently added 'c135-214' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c141-023' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c159-184' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c160-101' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-031' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c161-101' (ED25519) to the list of known hosts.
+WARNING (11/26/21 13:11:52): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.3823638.hostlist.TxJRCsOZ to get hosts
+starting job on c135-214
+starting job on c141-023
+starting job on c159-184
+starting job on c160-101
+starting job on c161-031
+starting job on c161-101
+slurmstepd: error: *** JOB 3823638 ON c135-214 CANCELLED AT 2021-11-26T13:26:49 ***
+Terminated
